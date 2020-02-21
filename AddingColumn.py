@@ -1,3 +1,6 @@
+# The Code takes input a file 'data.csv' and then add a column on the data and 
+# output file in another file 'output.csv'
+
 import csv 
 
 name = []
